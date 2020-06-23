@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="explore_the"></style>
+
+    <style name="category"></style>
+
 </resources>

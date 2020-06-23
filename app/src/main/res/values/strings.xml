@@ -3,4 +3,18 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="price_128176">Price </string>
+    <string name="participants">Participants</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="category">Category</string>
+    <string name="type">Type</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="_9_41">9:41</string>
+    <string name="free">Free</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
 </resources>

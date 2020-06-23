@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="krug2" />
+    <drawable name="bar" />
+    <drawable name="groupvv" />
+    <drawable name="circle" />
+    <drawable name="groupv" />
+    <drawable name="person" />
+    <drawable name="ic_group_black_24dp" />
+    <drawable name="heart" />
+    <drawable name="krug" />
+    <drawable name="background" />
+    <drawable name="signal" />
+    <drawable name="wifi" />
+    <drawable name="change" />
+    <drawable name="change1" />
+    <drawable name="change2" />
+</resources>

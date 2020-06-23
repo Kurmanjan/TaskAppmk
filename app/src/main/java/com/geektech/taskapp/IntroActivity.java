@@ -15,6 +15,8 @@ import android.widget.Adapter;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.geektech.boredapp.R;
+
 
 public class IntroActivity extends AppCompatActivity {
     ViewPager viewPager;
